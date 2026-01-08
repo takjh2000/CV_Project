@@ -1,4 +1,4 @@
-# CV_Project
+# Computer Vision_Project
 
 # ♿ KHUDA_CV_8th_DisabledParkingGuard
 CCTV 영상 기반 보행 특성 분석을 통한 장애인 전용 주차구역 부정 이용 탐지 (Prototype)
